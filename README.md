@@ -30,4 +30,10 @@ Use the `start.sh` to run the project, they will generate build of jar files, ex
 
 After star is complete acess: http://localhost:5601/app/discover#/
 
-  
+### Log flow:
+![image](https://user-images.githubusercontent.com/7308344/142554397-590820b5-1bf7-45b4-8ee1-bc6b181c598f.png)
+
+
+### Log correlation in Kibana
+![image](https://user-images.githubusercontent.com/7308344/142554435-3652d1e3-fd43-4eb6-a328-0a831526f032.png)
+
